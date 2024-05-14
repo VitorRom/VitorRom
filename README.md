@@ -15,11 +15,21 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
 
-### Últimos videos:
-- [Criando Infinite Scroll - React Native](https://youtu.be/TjkFGrjkXfc)<br/>
-- [O que estudar para se tornar um desenvolvedor front-end? 2022](https://youtu.be/Ab-kGzlCCWI)<br/>
-- [Criando interface login do Instagram - React Native](https://youtu.be/pSV9Wh_p2Cg)<br/>
-- [Aprendendo e conhecendo FIGMA - UI Design](https://youtu.be/KRCfX25yFf4)<br/>
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HaroldoAnalytics&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HaroldoAnalytics&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,css,html,github,linux,postman,postgres,discord,linkedin,instagram,python,powerbi,excel" />
+</a>
+  <br />
+
+  </div>
+
+##
+
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=HaroldoAnalytics&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
 
